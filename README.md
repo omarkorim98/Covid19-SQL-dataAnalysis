@@ -5,5 +5,5 @@ Analyze covid19 world data using sql, Getting the percentage of both death and v
 1. Covid Deaths: https://github.com/AlexTheAnalyst/Por...
 2. Covid Vaccinations: https://github.com/AlexTheAnalyst/Por...
 
-# Used:
+# IDE:
 Microsoft SQL Server Management Studio 18
